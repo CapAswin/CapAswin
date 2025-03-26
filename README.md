@@ -26,7 +26,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" title="🔵 CSS3 - Style your pages"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" title="💛 JavaScript - Bring interactivity to life"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" title="⚛️ React - Build dynamic UIs"/>
-<img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40" title="📱 React Native - Mobile app development"/>
+<!-- <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40" title="📱 React Native - Mobile app development"/> -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40" title="🟣 Redux - State management made easy"/>
 </p>
 <!-- Backend and Database -->
