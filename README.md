@@ -6,7 +6,6 @@
 ### 💫 About Me
 - 🔭 I’m currently working on [Nergy India](http://www.nergyindia.com/)  
 - ❓ Ask me about anything related to React JS and related technologies  
-  </br>
 
 ### 🌐 Connect With Me
 <p>
@@ -15,10 +14,9 @@
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" height="40"/>
   </a>
 </p>
-  </br>
 
 ### 💻 Tech Stack
-____
+#
 
 #### 🖥️ Frontend Technologies
 <p>
@@ -31,7 +29,6 @@ ____
 <!-- <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40" title="📱 React Native - Mobile app development"/> -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40" title="🟣 Redux - State management made easy"/>
 </p>
-</br>
 <!-- Backend and Database -->
 
 #### 🛢️ Backend and Database
@@ -41,12 +38,10 @@ ____
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" title="🐘 PostgreSQL - Advanced database solutions"/>
 <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MS SQL Server" width="40" height="40" title="🟢 MS SQL Server - Enterprise-level database management"/>
 </p>
-</br>
 <!-- Version Control -->
 
 #### 🛠️ Version Control
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" title="🌿 Git - Version control and collaboration"/>
-
 
 ---
 
