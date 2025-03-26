@@ -1,14 +1,14 @@
 
-<h1 align="left">Hey 👋 What's up?</h1>
+<h2 align="left">Hey 👋 What's up?</h2>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=18&duration=1500&pause=1000&center=false&vCenter=true&width=600&height=60&lines=Hi+there!+I'm+a+Frontend+Developer.;Specialized+in+React+and+Building+Interactive+UIs.;Passionate+about+Crafting+User+Experiences.;Always+Learning+and+Exploring+New+Tech!)](https://linkedin.com/in/aswin-krishna-9b311831b/)
 
-## 💫 About Me
+### 💫 About Me
 - 🔭 I’m currently working on [Nergy India](http://www.nergyindia.com/)  
 - ❓ Ask me about anything related to React JS and related technologies  
   </br>
 
-## 🌐 Connect With Me
+### 🌐 Connect With Me
 <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" title="Connect with me on LinkedIn"/>
   <a href="mailto:ltaswinak@gmail.com" title="Send me an Email">
@@ -17,9 +17,10 @@
 </p>
   </br>
 
-## 💻 Tech Stack
+### 💻 Tech Stack
+____
 
-### 🖥️ Frontend Technologies
+#### 🖥️ Frontend Technologies
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" title="🟠 HTML5 - Structure your content"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" title="🔵 CSS3 - Style your pages"/>
@@ -33,7 +34,7 @@
 </br>
 <!-- Backend and Database -->
 
-### 🛢️ Backend and Database
+#### 🛢️ Backend and Database
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" title="☕ Java - Object-oriented programming"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" title="🐬 MySQL - Relational database management"/>
@@ -43,7 +44,7 @@
 </br>
 <!-- Version Control -->
 
-### 🛠️ Version Control
+#### 🛠️ Version Control
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" title="🌿 Git - Version control and collaboration"/>
 
 
