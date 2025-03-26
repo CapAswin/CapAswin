@@ -1,5 +1,3 @@
-<div style="background-image: url('https://your-image-url.jpg'); background-size: cover; background-position: center; padding: 40px; border-radius: 10px;">
-
 
 <h1 align="left">Hey 👋 What's up?</h1>
 
@@ -24,6 +22,8 @@
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" title="🟠 HTML5 - Structure your content"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" title="🔵 CSS3 - Style your pages"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40" title="🟪 Bootstrap - Frontend Framework"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="Material UI" width="40" height="40" title="🔵 Material UI - React Component Library"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" title="💛 JavaScript - Bring interactivity to life"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" title="⚛️ React - Build dynamic UIs"/>
 <!-- <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40" title="📱 React Native - Mobile app development"/> -->
@@ -47,4 +47,3 @@
 _🚀 Always eager to explore new technologies and improve my skills._
 
 <!-- Created with GPRM ( https://gprm.itsvg.in ) -->
-</div>
